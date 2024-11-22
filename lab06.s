@@ -1,4 +1,4 @@
-
+pan
 .data
 data: .word 1
 
